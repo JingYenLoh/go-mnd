@@ -1,4 +1,4 @@
-# go-mnd - Magic number detector for Golang
+# go-mnd - Magic number detector for Golang!
 
 <img align="right" width="250px" src="https://github.com/tommy-muehle/go-mnd/blob/master/images/logo.png">
 
